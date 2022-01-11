@@ -1,7 +1,6 @@
 package com.cachoeira.calc.visao;
 
 import java.awt.BorderLayout;
-import java.awt.Color;
 
 import javax.swing.JFrame;
 import javax.swing.plaf.DimensionUIResource;
